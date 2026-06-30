@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-funkelnder-diamant/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Ein funkelnder Diamant](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-funkelnder-diamant/) |
+| **Get License** | [Official Music Licensing for Ein funkelnder Diamant](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-funkelnder-diamant/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4696)
 
 ---
 
