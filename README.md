@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-funkelnder-diamant/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Ein funkelnder Diamant](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-funkelnder-diamant/) |
+| **Get License** | [Get a Licensing Quote for Ein funkelnder Diamant](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-funkelnder-diamant/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5a51b470db5c6de033f8c9edeb749f52c8765e60a69f68520ec7093a81cf884e` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
