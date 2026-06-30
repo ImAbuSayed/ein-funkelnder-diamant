@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-funkelnder-diamant/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Ein funkelnder Diamant](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-funkelnder-diamant/) |
+| **Get License** | [Request Licensing for Ein funkelnder Diamant](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-funkelnder-diamant/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Du glänzt in der Nacht wie ein funkelnder Diamant
+> Komm, zieh dich nah an mich, gib mir die Hand
+> Die Straßen sind leer, doch wir beide sind wach
+> Dein Blick ist ein Feuer und zündet die Nacht
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
